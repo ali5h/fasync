@@ -1,1 +1,1 @@
-# fasync
+# fasync: Bringing sanity to Go concurreny
